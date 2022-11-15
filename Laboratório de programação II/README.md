@@ -1,3 +1,3 @@
-# Laboratório de linguagem de programação II 2021.2
+# Laboratório de programação II 2021.2
 
-Códigos desenvolvidos durante o primeiro período da faculdade na disciplina Laboratório de linguagem de programação II (Python + JAVA)
+Códigos desenvolvidos durante o terceiro período da faculdade na disciplina Laboratório de programação II
